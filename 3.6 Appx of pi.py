@@ -1,5 +1,5 @@
 a = int(input("Enter the number of iterations:")
-import math
+import pi from path
 i = 0;
 c_i = 1;
 p_i = pi/4 == 1 - 1/3 + 1/5 - 1/7 + ... 
